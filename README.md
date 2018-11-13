@@ -1,2 +1,2 @@
 # new_profile
-https://ksanu1998.github.io/new_profile/index.html
+https://github.com/ksanu1998/new_profile/blob/master/index.html
